@@ -1,2 +1,2 @@
 # Asthma-Buddy
-All my work and learning dring my time at SPIRE Lab , IISc Bangalore
+All my work and learning during my time at SPIRE Lab , IISc Bangalore
